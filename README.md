@@ -1,4 +1,5 @@
 #dnanexus dx : Using your own applet, using an example file
+```
 .
 ├── README.md
 ├── conf.json #output directory structure #optional if not included in the python code
@@ -7,6 +8,7 @@
 │   ├── code.py #python reorganizing script
 │   └── dxapp.json #app build code
 └── simple.wdl #wdl script
+```
 
 ##STEPS taken
 ```
