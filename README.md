@@ -1,4 +1,4 @@
-#dnanexus dx : Using your own applet, using an example file
+# dnanexus dx : Using your own applet, using an example file
 ```
 .
 ├── README.md
@@ -10,7 +10,7 @@
 └── simple.wdl #wdl script
 ```
 
-##STEPS taken
+## STEPS taken
 ```
 conda activate dx
 
